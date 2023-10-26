@@ -1,0 +1,26 @@
+body {
+    background-color: #DFEEF1;
+}
+
+img {
+    border-radius: 50%;
+}
+
+hr {
+    border: dashed 2px;
+    opacity: 0.5;
+    }
+
+.title {
+    font-weight: 600;
+    color: #658B8C;
+    font-size: 18px;
+}
+.name {
+    font-size: 24px;
+}
+
+.rating i {
+    color: linear-gradient(180deg, #FEFBEF 29.41%, #FDBB19 138.24%);
+
+}
